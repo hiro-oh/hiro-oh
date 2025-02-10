@@ -1,5 +1,19 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro-oh)](https://github.com/ryo-ma/github-profile-trophy)
+
+```md
+## References
+<!-- Inline links -->
+- [Ref: ]()
+- [Ref: ]()
+- [Ref: ]()
+
+<!-- Reference-style links -->
+[Ref]:  ""
+[Ref]:  ""
+[Ref]:  ""
+```
+
 <!--
 **hiro-oh/hiro-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

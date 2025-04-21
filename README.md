@@ -1,18 +1,21 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro-oh)](https://github.com/ryo-ma/github-profile-trophy)
 
+### My favorite Markdown referencing style
 ```md
 ## References
 <!-- Inline links -->
-- [Ref: ]()
-- [Ref: ]()
-- [Ref: ]()
+- [Ref1: ]()
+- [Ref2: ]()
+- [Ref3: ]()
 
 <!-- Reference-style links -->
-[Ref]:  ""
-[Ref]:  ""
-[Ref]:  ""
+[Ref1]:  ""
+[Ref2]:  ""
+[Ref3]:  ""
 ```
+
+
 
 <!--
 **hiro-oh/hiro-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
